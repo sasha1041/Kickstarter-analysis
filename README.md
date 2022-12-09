@@ -11,6 +11,6 @@ The most successful kickstarters are those with goals that are less that 5,000.0
 ## Results
 Based on the "Theatre Outcomes By Launch Date" during the months launch months of May, June and July we see that the 
 highest rates of both successful and failed kickstarters. The outcomes of successfull and failed rise and decrease at 
-the same amount. Ultimately for the best success rate goals less than 5,000 launched between May-July have the best  
+the same amount. For the best success rate, goals less than 5,000 launched between May-July have the best  
 rate for success.
 
